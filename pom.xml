@@ -8,10 +8,10 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.eurekaclient</groupId>
-	<artifactId>Eureka-Client</artifactId>
+	<groupId>com.example.addtocart</groupId>
+	<artifactId>AddToCart</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Eureka-Client</name>
+	<name>AddToCart</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
