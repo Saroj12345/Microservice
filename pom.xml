@@ -8,10 +8,10 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>Eureka-Server</artifactId>
+	<groupId>com.eurekaclient</groupId>
+	<artifactId>Eureka-Client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Eureka-Server</name>
+	<name>Eureka-Client</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -26,7 +26,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
-			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
 		</dependency>
 
 		<dependency>
